@@ -4,6 +4,7 @@
 
 I'm learning the basics of algorithmic trading and building three algorithmic trading projects based of of https://www.youtube.com/watch?v=xfzGZB4HhEE
 
+<<<<<<< HEAD
 ## Projects:
 
 1. Equal-Weight S&P 500 Index Fund
@@ -40,3 +41,10 @@ I'm learning the basics of algorithmic trading and building three algorithmic tr
   - Calculating Weights
   - Generating Our Output File
   - Additional Project Ideas
+=======
+
+## Projects:
+1. Equal-Weight S&P 500 Index Fund
+2. Quantitative Momentum Investing Strategy
+3. Quantitative Value Investing Strategy
+>>>>>>> 5aa65ac756d77f19585c1472c0d0f95ee3fcddae
